@@ -1,0 +1,1 @@
+1.0.0: initial release, with desktop customization already added. 
